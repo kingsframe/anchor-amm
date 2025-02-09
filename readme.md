@@ -15,3 +15,7 @@ pub struct Config {
 Admin will init AMM with only 1 trading pair, mint_lp token, 
 
 ## Deposit
+
+
+## Withdraw
+initialize the constant product curve, use the curve to calculate amount needed to deposit and withdraw tokens
